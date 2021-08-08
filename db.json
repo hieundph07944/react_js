@@ -1,0 +1,80 @@
+{
+  "product": [
+    {
+      "id": "4",
+      "name": "3r24trwe",
+      "cate_id": "1",
+      "price": "563342",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "rtert",
+      "price": "563342",
+      "status": "false",
+      "cate_id": "210434114213224244334122"
+    },
+    {
+      "id": "33014313021030133431024",
+      "name": "áo đen",
+      "price": "350.000",
+      "status": "false",
+      "cate_id": "1"
+    },
+    {
+      "id": "203024010113120401444122",
+      "name": "quần thun",
+      "price": "350.000",
+      "status": "true",
+      "cate_id": "40001243213033133141201"
+    },
+    {
+      "id": "33341433114032144032442",
+      "name": "Áo dài",
+      "price": "120000",
+      "status": "1",
+      "cate_id": "210434114213224244334122"
+    },
+    {
+      "id": "42324123224213401223004",
+      "name": "AIR PORT 345",
+      "price": "250000",
+      "status": "1",
+      "cate_id": "1"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Giày"
+    },
+    {
+      "id": "210434114213224244334122",
+      "name": "Áo"
+    },
+    {
+      "id": "40001243213033133141201",
+      "name": "Quần"
+    }
+  ],
+  "users": [
+    {
+      "email": "datlt2306@gmail.com",
+      "password": "$2a$10$.7htXDqnDnXqZFvunt4OCe9jSkaw11JQ8cxrBtmCrKPezy0The0RW",
+      "username": "datlt2306",
+      "id": 1
+    },
+    {
+      "email": "tunglam1708@gmail.com",
+      "password": "$2a$10$LuBwfk9kuTYuQtdvd/SFvOXfPabdWbeJMjilRDR1WXp8Yii/7wMAy",
+      "username": "tunglam",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "username": "kien",
+      "id": 3
+    }
+  ]
+}
